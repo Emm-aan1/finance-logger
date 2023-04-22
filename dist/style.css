@@ -100,7 +100,7 @@ footer a {
     width: 100%;
   }
   
-  select option {
-    color: #000;
+  .field select option {
+    color: black;
   }
 }
