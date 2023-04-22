@@ -99,4 +99,8 @@ footer a {
   input {
     width: 100%;
   }
+  
+  select option {
+    color: #000;
+  }
 }
