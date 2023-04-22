@@ -102,5 +102,6 @@ footer a {
   
   .field select option {
     color: black;
+    letter-spacing: 2px;
   }
 }
